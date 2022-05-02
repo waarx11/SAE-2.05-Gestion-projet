@@ -1,15 +1,26 @@
-#SAE 2.04
+---
+title: SAE 2.05 Gestion d'un projet
+author: Thomas Muzard emre
+geometry: margin=2cm
+---
 
-git clone https://gitlab.iut-clermont.uca.fr/user/sae-2.04
-(dans le dossier voulue)
+# PRÉSENTATION
 
-git add .  (ajouter les fichiers)
+## 1.1) Description
 
-git status (Regardez les changements)
+Notre projet consister a récupérer une base de données blablablablablabla
 
-git commit -m ‘_’  (message)
+## 1.2) Genèse de l'idée
 
-git push (envoyer)
+Notre idée de projet est de récupérer une base de donnée sur le jeux "League Of Legend" afin de développer une implémentation optimal et d'en tiré des informations utiles.
 
-git pull  (récupérer)
-!!
+## 1.3) Maître d'oeuvre, maitre d'ouvrage, équipe de projet
+
+
+## 1.4) Transcription des besoins
+
+## 1.5) Description des livrables
+
+## 1.6) Niveau de confidentialité
+
+# LE RÉFÉRENTIEL DU PROJET
