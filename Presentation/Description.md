@@ -24,15 +24,15 @@ La maitrise d'ouvrage sera donc l'ensemble des particuliers, notamment des joueu
 **Bête à cornes**:
    
 <img src="Diagramme_corne.png"
-     alt="MCD"
+     alt="Diagramme Corne"
      style="float: left; margin-right: 40px;" />
 </br>
 
 **Outils pieuvre**:
 
 <img src="Diagramme_pieuvre.png"
-     alt="MCD"
-     style="float: left; margin-right: 40px;" />
+     alt="Diagramme pieuve"
+     style="float: left; margin-right: 30px;" />
 </br>
 
 ## 1.5) Description des livrables
